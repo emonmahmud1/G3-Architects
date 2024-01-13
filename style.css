@@ -193,7 +193,8 @@ main {
         width: 95%;
     }
     .feature-btn-image button{
-        left: 80px;
+        padding: 20px;
+        left: 45px;
     }
 }
 
